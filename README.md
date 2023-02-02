@@ -10,8 +10,6 @@ I participated in the VR development process (on Oculus Quest2) and creating int
 **link to expeince video:**
 https://youtu.be/coKvHiFVAQA
 
-**download the experience: (apk for Oculus Quest 2)**
-
 
 **summary of whole process at Medrrar:**
 https://www.facebook.com/reel/1068703923824691/
